@@ -1,6 +1,6 @@
 # Movie-Trailer-Website
 ## Install
-**All file must in the same document** `Media.py`,`entertainment_center.py`,`fresh_tomatoes.py`
+**All file must in the same document** `media.py`,`entertainment_center.py`,`fresh_tomatoes.py` ,then run the `entertainment_center.py`.
 ```
 import webbrowser
 import os
